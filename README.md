@@ -4,7 +4,7 @@
 - Parse json body in req.json
 - Parse form data in req.form
 
-*This middleware does not validates accept headers.
+*This middleware (By design) does not validates Accept headers.
 If you need to, please use body-parser.
 
 ### Install
