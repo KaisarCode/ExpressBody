@@ -1,5 +1,5 @@
 # Express body
-[NodeJS] Request body parser 
+[NodeJS] Body parser for Express
 - Read request body.
 - Parse cookies data in req.cookie
 - Parse json body in req.json
