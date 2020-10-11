@@ -1,4 +1,4 @@
-# Express body [NodeJS]
+# [NodeJS] Express body
 - Read request body.
 - Parse cookies data in req.cookie
 - Parse json body in req.json
