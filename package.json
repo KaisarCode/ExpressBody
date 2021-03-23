@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/ExpressBody.git"
+    "url": "https://github.com/kaisarsnippets/ExpressBody.git"
   },
   "keywords": [
     "body",
@@ -15,9 +15,9 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/ExpressBody/issues"
+    "url": "https://github.com/kaisarsnippets/ExpressBody/issues"
   },
-  "homepage": "https://github.com/KaisarCode/ExpressBody",
+  "homepage": "https://github.com/kaisarsnippets/ExpressBody",
   "dependencies": {
     "kc-qstr": "^1.0.3"
   }
